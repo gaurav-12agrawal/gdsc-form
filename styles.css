@@ -1,0 +1,129 @@
+body {
+    background-color:#e6f6fe;
+  
+ 
+ 
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.image1 {
+    height: 150px;
+    width: 150px;
+    margin-bottom: 0px;
+    margin-top: 10px;
+    margin-left: 20px;
+    border-radius: 15px;
+    float: left;
+}
+
+.image2 {
+    height: 150px;
+    width: 150px;
+    margin-bottom: 0px;
+    margin-top: 5px;
+    margin-left: 35px;
+    border-radius: 15px;
+    float: left;
+}
+
+
+.chead {
+    text-align: left;
+    margin-top: 30px;
+    margin-left: 0px;
+    font-family: Inconsolata;
+    font-weight: bold;
+}
+.prices {
+    
+  
+   
+    margin-top: 55px;
+    margin-left: 75px;
+    background-color:#d5efff;
+    border-radius: 20px;
+    margin-bottom: 100px;
+    height: 560px;
+    padding-top: 40px;
+}
+
+.inputs{
+    margin-bottom: 5px;
+    margin-left: 30px;
+    height: 20px;
+    font-size: 16px;
+    border-radius: 4px;
+}
+.inputs:hover{
+   outline-style: solid; 
+}
+.information {
+   
+    margin-top: 0px;
+    padding-left: 250px;
+    margin-bottom: 100px;
+    border-radius: 20px;
+    text-align: left;
+
+}
+h6{
+    font-size: 16px;
+}
+
+.pricing {
+    text-align: left;
+    padding-top: 20px;
+    margin-left: 200px;
+}
+.pricing1 {
+    text-align: left;
+    padding-top: 20px;
+    margin-left: 217px;
+}
+span{
+    font-size: 15px;
+}
+.mainhead{
+  
+    font-size: 35px;
+    font-family: ubuntu;
+    font-weight:bold;
+    padding-left: 0;
+    margin-left: 0;
+}
+h4{
+    font-family: Arima;
+}
+
+.myprice{
+    font-size: 18px;
+    padding-left: 200px;
+}
+.myprice1{
+    font-size: 18px;
+    padding-left: 217px;
+}
+.mybutton{
+    color: white;
+
+}
+.mybutton:hover{
+    outline: none !important;
+    border-color: #709fd0;
+    box-shadow: 0 0 10px #719ECE;
+}
+
+hr{
+    border-style: solid;
+    border-color: black;
+}
+
+.shipping{
+    padding-left: 275px;
+}
+
+.total{
+    padding-left: 300px;
+}
